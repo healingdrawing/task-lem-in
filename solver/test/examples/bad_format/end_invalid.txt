@@ -1,0 +1,6 @@
+10
+##start
+start 0 0
+##end
+end bruh 1
+start-end

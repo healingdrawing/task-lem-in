@@ -1,0 +1,6 @@
+10
+##start
+start DOG 0
+##end
+end 1 1
+start-end
